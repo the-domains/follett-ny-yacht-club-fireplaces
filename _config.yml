@@ -1,0 +1,28 @@
+name: Follett -- NY Yacht Club Fireplaces
+favicon: null
+layout_spectrum: 0.27899582125246525
+typography_spectrum: 0.3787134175654501
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1799416490830481
+  lightness: 0.27167816925793886
+  saturation: 0.21417499613016844
+  rhythmicContrast: 0.6024515156168491
+purpose: []
