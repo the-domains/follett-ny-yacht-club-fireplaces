@@ -1,0 +1,1 @@
+# follett-ny-yacht-club-fireplaces
